@@ -1,0 +1,5 @@
+mongoose = for connecting node js with mongo db
+schema = for making connection model that will follow every single object in db
+.then = it is a function for run in sychronizedly. that mens run that run that function before anything else
+Robomongo = for showing our collection
+$inc = this is a update operators
